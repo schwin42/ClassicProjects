@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>6.0.1</string>
+	<key>Features</key><integer>1</integer>
+	<key>Music Folder</key><string>file://localhost/D:/Unsorted/Audio/</string>
+	<key>Library Persistent ID</key><string>0DA1DD0D7924DFBC</string>
+	<key>Tracks</key>
+	<dict>
+		<key>43</key>
+		<dict>
+			<key>Track ID</key><integer>43</integer>
+			<key>Name</key><string>Silence (Paul Oakenfold Remix)</string>
+			<key>Artist</key><string>Delirium &#38; Sarah McLachlan</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4126008</integer>
+			<key>Total Time</key><integer>257828</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2005-03-27T20:07:46Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080448121</integer>
+			<key>Play Date UTC</key><date>2005-11-11T09:59:35Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Delirium%20&#38;%20Sarah%20McLachlan%20-%20Silence%20(Paul%20Oakenfold%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>45</key>
+		<dict>
+			<key>Track ID</key><integer>45</integer>
+			<key>Name</key><string>(Can't You) Trip Like I Do</string>
+			<key>Artist</key><string>Filter &#38; The Crystal Method</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4291520</integer>
+			<key>Total Time</key><integer>268173</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Date Modified</key><date>2005-03-27T20:07:48Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E331</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Filter%20&#38;%20The%20Crystal%20Method%20-%20(Can't%20You)%20Trip%20Like%20I%20Do.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>49</key>
+		<dict>
+			<key>Track ID</key><integer>49</integer>
+			<key>Name</key><string>One Man Army</string>
+			<key>Artist</key><string>The Prodigy &#38; Tom Morello</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4069583</integer>
+			<key>Total Time</key><integer>254302</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2005-03-27T20:07:44Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1081055412</integer>
+			<key>Play Date UTC</key><date>2005-11-04T09:18:04Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E335</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20&#38;%20Tom%20Morello%20-%20One%20Man%20Army.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>58</key>
+		<dict>
+			<key>Track ID</key><integer>58</integer>
+			<key>Name</key><string>Uninvited</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Composer</key><string>Alanis Morissette</string>
+			<key>Album</key><string>City of Angels</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4420029</integer>
+			<key>Total Time</key><integer>275957</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2005-03-27T10:18:01Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E33F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Alanis%20Morissette%20-%20Uninvited.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>62</key>
+		<dict>
+			<key>Track ID</key><integer>62</integer>
+			<key>Name</key><string>The Wonders of You</string>
+			<key>Artist</key><string>Andy Hunter</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6682798</integer>
+			<key>Total Time</key><integer>417567</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2005-03-27T10:38:14Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:35Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081016133</integer>
+			<key>Play Date UTC</key><date>2005-11-04T20:12:43Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E343</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Andy%20Hunter%20-%20The%20Wonders%20of%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>65</key>
+		<dict>
+			<key>Track ID</key><integer>65</integer>
+			<key>Name</key><string>Power Gen (Space Cat Remix)</string>
+			<key>Artist</key><string>Astral Projection</string>
+			<key>Album</key><string>Ten</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15136942</integer>
+			<key>Total Time</key><integer>472973</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T10:04:32Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081835768</integer>
+			<key>Play Date UTC</key><date>2005-10-26T08:32:08Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E346</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Astral%20Projection%20-%20Power%20Gen%20(Space%20Cat%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>78</key>
+		<dict>
+			<key>Track ID</key><integer>78</integer>
+			<key>Name</key><string>So Cold</string>
+			<key>Artist</key><string>Breaking Benjamin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4380974</integer>
+			<key>Total Time</key><integer>273658</integer>
+			<key>Date Modified</key><date>2005-03-27T10:33:47Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1081852181</integer>
+			<key>Play Date UTC</key><date>2005-10-26T03:58:35Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E353</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Breaking%20Benjamin%20-%20So%20Cold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>80</key>
+		<dict>
+			<key>Track ID</key><integer>80</integer>
+			<key>Name</key><string>Crash (Techno Remix)</string>
+			<key>Artist</key><string>Bubblegum Crisis Tokyo 2040</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3295438</integer>
+			<key>Total Time</key><integer>205923</integer>
+			<key>Date Modified</key><date>2005-03-27T20:08:57Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Bubblegum%20Crisis%20Tokyo%202040%20(Techno%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>93</key>
+		<dict>
+			<key>Track ID</key><integer>93</integer>
+			<key>Name</key><string>Change (In the House of Flies)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4784302</integer>
+			<key>Total Time</key><integer>298893</integer>
+			<key>Date Modified</key><date>2005-03-27T10:29:17Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080935080</integer>
+			<key>Play Date UTC</key><date>2005-11-05T18:43:36Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E362</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Deftones%20-%20Change%20(In%20the%20House%20of%20Flies).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>96</key>
+		<dict>
+			<key>Track ID</key><integer>96</integer>
+			<key>Name</key><string>Dress Me When I Bleed (Undressed Mix)</string>
+			<key>Artist</key><string>De/Vision</string>
+			<key>Album</key><string>Remixed </string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6338734</integer>
+			<key>Total Time</key><integer>264071</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-03-27T10:25:46Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081153782</integer>
+			<key>Play Date UTC</key><date>2005-11-03T05:58:34Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/DeVision%20-%20Dress%20Me%20When%20I%20Bleed%20(Undressed%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>99</key>
+		<dict>
+			<key>Track ID</key><integer>99</integer>
+			<key>Name</key><string>Come Home</string>
+			<key>Artist</key><string>DJ Rad Feat. Zoe</string>
+			<key>Composer</key><string>Rad D</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4331694</integer>
+			<key>Total Time</key><integer>270680</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T10:41:18Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:36Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>-1080447611</integer>
+			<key>Play Date UTC</key><date>2005-11-11T10:08:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E368</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/DJ%20Rad%20Feat.%20Zoe%20-%20Come%20Home.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>116</key>
+		<dict>
+			<key>Track ID</key><integer>116</integer>
+			<key>Name</key><string>Kaoss (McVaffe Remix)</string>
+			<key>Artist</key><string>Final Fantasy I</string>
+			<key>Composer</key><string>Nobuo Uematsu</string>
+			<key>Album</key><string>http://www.ocremix.org</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3463470</integer>
+			<key>Total Time</key><integer>216320</integer>
+			<key>Date Modified</key><date>2005-03-27T10:21:54Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081602182</integer>
+			<key>Play Date UTC</key><date>2005-10-29T01:25:14Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E379</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Final%20Fantasy%20I%20-%20Kaoss%20(McVaffe%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>120</key>
+		<dict>
+			<key>Track ID</key><integer>120</integer>
+			<key>Name</key><string>Absurd (Whitewash Edit)</string>
+			<key>Artist</key><string>Fluke</string>
+			<key>Composer</key><string>Fluke</string>
+			<key>Album</key><string>Tomb Raider</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3535022</integer>
+			<key>Total Time</key><integer>220212</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T10:36:52Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1080446402</integer>
+			<key>Play Date UTC</key><date>2005-11-11T10:28:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E37D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Fluke%20-%20Absurd%20(Whitewash%20Edit).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>134</key>
+		<dict>
+			<key>Track ID</key><integer>134</integer>
+			<key>Name</key><string>Eden (Sarah Brightman Enigma Remix)</string>
+			<key>Artist</key><string>Hooverphonic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6285614</integer>
+			<key>Total Time</key><integer>261799</integer>
+			<key>Date Modified</key><date>2005-03-27T10:16:04Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1080618360</integer>
+			<key>Play Date UTC</key><date>2005-11-09T10:42:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E38B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Hooverphonic%20-%20Eden%20(Sarah%20Brightman%20Enigma%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>148</key>
+		<dict>
+			<key>Track ID</key><integer>148</integer>
+			<key>Name</key><string>Hell Bent</string>
+			<key>Artist</key><string>Kenna</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5884078</integer>
+			<key>Total Time</key><integer>294164</integer>
+			<key>Date Modified</key><date>2005-03-27T10:20:08Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1080619634</integer>
+			<key>Play Date UTC</key><date>2005-11-09T10:21:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E399</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Kenna%20-%20Hell%20Bent.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>155</key>
+		<dict>
+			<key>Track ID</key><integer>155</integer>
+			<key>Name</key><string>Battleflag (Radio)</string>
+			<key>Artist</key><string>Lo Fidelity Allstars</string>
+			<key>Album</key><string>Battleflag [CD Single]</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5773486</integer>
+			<key>Total Time</key><integer>240509</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2005-03-27T10:09:25Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1080991254</integer>
+			<key>Play Date UTC</key><date>2005-11-05T03:07:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Lo%20Fidelity%20Allstars%20-%20Battleflag%20(Radio).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>157</key>
+		<dict>
+			<key>Track ID</key><integer>157</integer>
+			<key>Name</key><string>Die Another Day</string>
+			<key>Artist</key><string>Madonna</string>
+			<key>Album</key><string>Die Another Day Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5101742</integer>
+			<key>Total Time</key><integer>212480</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-03-27T10:24:12Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080617500</integer>
+			<key>Play Date UTC</key><date>2005-11-09T10:56:36Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Madonna%20-%20Die%20Another%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>165</key>
+		<dict>
+			<key>Track ID</key><integer>165</integer>
+			<key>Name</key><string>Spun</string>
+			<key>Artist</key><string>Methods of Mayhem Feat. Scott Kirkland</string>
+			<key>Album</key><string>Methods of Mayhem</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2429102</integer>
+			<key>Total Time</key><integer>150804</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2005-03-27T10:05:40Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1082936481</integer>
+			<key>Play Date UTC</key><date>2005-10-13T14:46:55Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Methods%20of%20Mayhem%20Feat.%20Scott%20Kirkland%20-%20Spun.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>168</key>
+		<dict>
+			<key>Track ID</key><integer>168</integer>
+			<key>Name</key><string>Hysteria</string>
+			<key>Artist</key><string>Muse</string>
+			<key>Composer</key><string>Chris Wolstenholme/Dominic Howard/Matthew Bellamy</string>
+			<key>Album</key><string>Absolution</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7282862</integer>
+			<key>Total Time</key><integer>227526</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T10:16:20Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1081660628</integer>
+			<key>Play Date UTC</key><date>2005-10-28T09:11:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Muse%20-%20Hysteria.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>Dread Rock</string>
+			<key>Artist</key><string>Oakenfold</string>
+			<key>Composer</key><string>Paul Oakenfold</string>
+			<key>Album</key><string>Matrix Reloaded</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5601723</integer>
+			<key>Total Time</key><integer>280032</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T10:22:55Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Oakenfold%20-%20Dread%20Rock.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Nothing But You (Cirrus Remix)</string>
+			<key>Artist</key><string>Paul van Dyk</string>
+			<key>Album</key><string>Reflections</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6811776</integer>
+			<key>Total Time</key><integer>241998</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-05-07T19:15:32Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:38Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080619929</integer>
+			<key>Play Date UTC</key><date>2005-11-09T10:16:07Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Paul%20van%20Dyk%20-%20Nothing%20But%20You%20(Cirrus%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>198</key>
+		<dict>
+			<key>Track ID</key><integer>198</integer>
+			<key>Name</key><string>Merging Oceans</string>
+			<key>Artist</key><string>Rotersand </string>
+			<key>Album</key><string>The Synthetic Music Collection CD 2</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7280814</integer>
+			<key>Total Time</key><integer>303281</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Date Modified</key><date>2005-03-27T10:06:47Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1080442047</integer>
+			<key>Play Date UTC</key><date>2005-11-11T11:40:49Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3CB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rotersand%20-%20Merging%20Oceans.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>209</key>
+		<dict>
+			<key>Track ID</key><integer>209</integer>
+			<key>Name</key><string>Pro-Test</string>
+			<key>Artist</key><string>Skinny Puppy</string>
+			<key>Album</key><string>The Greater Wrong of the Right</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8157390</integer>
+			<key>Total Time</key><integer>328751</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T20:07:59Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:39Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1080624998</integer>
+			<key>Play Date UTC</key><date>2005-11-09T08:51:38Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Skinny%20Puppy%20-%20Pro-Test.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>218</key>
+		<dict>
+			<key>Track ID</key><integer>218</integer>
+			<key>Name</key><string>Armageddon</string>
+			<key>Artist</key><string>Stromkern</string>
+			<key>Album</key><string>Armageddon</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7985326</integer>
+			<key>Total Time</key><integer>332669</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T10:36:15Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080634680</integer>
+			<key>Play Date UTC</key><date>2005-11-09T06:10:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E3DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Stromkern%20-%20Armageddon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>258</key>
+		<dict>
+			<key>Track ID</key><integer>258</integer>
+			<key>Name</key><string>Beloved</string>
+			<key>Artist</key><string>VNV Nation</string>
+			<key>Album</key><string>Future Perfect</string>
+			<key>Genre</key><string>Darkwave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7113006</integer>
+			<key>Total Time</key><integer>444499</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-03-27T10:28:12Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080482740</integer>
+			<key>Play Date UTC</key><date>2005-11-11T00:22:36Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E408</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/VNV%20Nation%20-%20Beloved.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>293</key>
+		<dict>
+			<key>Track ID</key><integer>293</integer>
+			<key>Name</key><string>Bells for Her</string>
+			<key>Artist</key><string>Tori Amos</string>
+			<key>Composer</key><string>Tori Amos</string>
+			<key>Album</key><string>Under the Pink</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6443182</integer>
+			<key>Total Time</key><integer>322037</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2005-03-27T10:46:34Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:41Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1080578289</integer>
+			<key>Play Date UTC</key><date>2005-11-09T21:50:07Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E42E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Tori%20Amos%20-%20Bells%20for%20Her.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>329</key>
+		<dict>
+			<key>Track ID</key><integer>329</integer>
+			<key>Name</key><string>Vampire Killer</string>
+			<key>Artist</key><string>Castlevania</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4069550</integer>
+			<key>Total Time</key><integer>169508</integer>
+			<key>Date Modified</key><date>2005-03-27T10:52:21Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082554537</integer>
+			<key>Play Date UTC</key><date>2005-10-18T00:52:39Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E452</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Castlevania%20-%20Vampire%20Killer.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>331</key>
+		<dict>
+			<key>Track ID</key><integer>331</integer>
+			<key>Name</key><string>Technomancy (Shael Riley Remix)</string>
+			<key>Artist</key><string>Castlevania- Circle of the Moon</string>
+			<key>Album</key><string>http://www.ocremix.org</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3293312</integer>
+			<key>Total Time</key><integer>205688</integer>
+			<key>Date Modified</key><date>2005-05-07T18:46:16Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1081659216</integer>
+			<key>Play Date UTC</key><date>2005-10-28T09:34:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E454</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Castlevania-%20Circle%20of%20the%20Moon%20-%20Technomancy%20(Shael%20Riley%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>338</key>
+		<dict>
+			<key>Track ID</key><integer>338</integer>
+			<key>Name</key><string>Mouse</string>
+			<key>Artist</key><string>Chroma Key</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5511342</integer>
+			<key>Total Time</key><integer>344424</integer>
+			<key>Date Modified</key><date>2005-03-27T10:54:20Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080983346</integer>
+			<key>Play Date UTC</key><date>2005-11-05T05:19:10Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E45B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Chroma%20Key%20-%20Mouse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>344</key>
+		<dict>
+			<key>Track ID</key><integer>344</integer>
+			<key>Name</key><string>A World Awaits Chrono (J:/Drive Remix)</string>
+			<key>Artist</key><string>Chrono Trigger</string>
+			<key>Composer</key><string>Yasunori Mitsuda</string>
+			<key>Album</key><string>http://www.ocremix.org</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5312686</integer>
+			<key>Total Time</key><integer>283428</integer>
+			<key>Date Modified</key><date>2005-03-27T10:55:14Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1082278031</integer>
+			<key>Play Date UTC</key><date>2005-10-21T05:41:05Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E461</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Chrono%20Trigger%20-%20A%20World%20Awaits%20Chrono%20(J%20Drive%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>345</key>
+		<dict>
+			<key>Track ID</key><integer>345</integer>
+			<key>Name</key><string>Belthasar</string>
+			<key>Artist</key><string>Chrono Trigger</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2312366</integer>
+			<key>Total Time</key><integer>144404</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2005-03-27T10:56:00Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082524487</integer>
+			<key>Play Date UTC</key><date>2005-10-18T09:13:29Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E462</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Chrono%20Trigger%20-%20Belthasar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>362</key>
+		<dict>
+			<key>Track ID</key><integer>362</integer>
+			<key>Name</key><string>The Mellow Corridor (DJ Cubez Remix)</string>
+			<key>Artist</key><string>Chrono Trigger</string>
+			<key>Composer</key><string>Yasunori Mitsuda</string>
+			<key>Album</key><string>http://www.ocremix.org</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4595840</integer>
+			<key>Total Time</key><integer>287190</integer>
+			<key>Date Modified</key><date>2005-05-07T19:00:06Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082809518</integer>
+			<key>Play Date UTC</key><date>2005-10-15T02:02:58Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E473</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Chrono%20Trigger%20-%20The%20Mellow%20Corridor%20(DJ%20Cubez%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>384</key>
+		<dict>
+			<key>Track ID</key><integer>384</integer>
+			<key>Name</key><string>Bad Stone</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4972718</integer>
+			<key>Total Time</key><integer>309838</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:04:15Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1082547585</integer>
+			<key>Play Date UTC</key><date>2005-10-18T02:48:31Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E489</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Bad%20Stone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>385</key>
+		<dict>
+			<key>Track ID</key><integer>385</integer>
+			<key>Name</key><string>Blast</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4470958</integer>
+			<key>Total Time</key><integer>279301</integer>
+			<key>Date Modified</key><date>2005-03-27T11:02:34Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1083660113</integer>
+			<key>Play Date UTC</key><date>2005-10-05T05:46:23Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E48A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Blast.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>386</key>
+		<dict>
+			<key>Track ID</key><integer>386</integer>
+			<key>Name</key><string>Blowout</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland</string>
+			<key>Album</key><string>Tweekend Advance</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7706798</integer>
+			<key>Total Time</key><integer>481567</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T11:05:17Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081685435</integer>
+			<key>Play Date UTC</key><date>2005-10-28T02:17:41Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E48B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Blowout.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>388</key>
+		<dict>
+			<key>Track ID</key><integer>388</integer>
+			<key>Name</key><string>Born Too Slow</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>The Crystal Method/Wes Borland</string>
+			<key>Album</key><string>Legion of Boom</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4317358</integer>
+			<key>Total Time</key><integer>179853</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T11:03:40Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1081144427</integer>
+			<key>Play Date UTC</key><date>2005-11-03T08:34:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E48D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Born%20Too%20Slow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>Busy Child (Nitrous Oxide Remix)</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4116654</integer>
+			<key>Total Time</key><integer>257175</integer>
+			<key>Date Modified</key><date>2005-03-27T11:04:29Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E48E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Busy%20Child%20(Nitrous%20Oxide%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>390</key>
+		<dict>
+			<key>Track ID</key><integer>390</integer>
+			<key>Name</key><string>Busy Child</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Techno-Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3928664</integer>
+			<key>Total Time</key><integer>245472</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:02:25Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E48F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Busy%20Child.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>Cherry Twist</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4266158</integer>
+			<key>Total Time</key><integer>265639</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:04:52Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E490</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Cherry%20Twist.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>392</key>
+		<dict>
+			<key>Track ID</key><integer>392</integer>
+			<key>Name</key><string>Comin' Back</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland/Trudy Reiss</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5441710</integer>
+			<key>Total Time</key><integer>339095</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:02:00Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082974855</integer>
+			<key>Play Date UTC</key><date>2005-10-13T04:07:21Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E491</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Comin'%20Back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>I Know It's You</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Album</key><string>Legion of Boom</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5594017</integer>
+			<key>Total Time</key><integer>348839</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2005-03-27T13:19:22Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1080313798</integer>
+			<key>Play Date UTC</key><date>2005-11-12T23:18:18Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E492</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20I%20Know%20It's%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>394</key>
+		<dict>
+			<key>Track ID</key><integer>394</integer>
+			<key>Name</key><string>Jaded</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland/Trudie Reiss</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6828206</integer>
+			<key>Total Time</key><integer>224000</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:03:17Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081155054</integer>
+			<key>Play Date UTC</key><date>2005-11-03T05:37:22Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E493</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Jaded.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>396</key>
+		<dict>
+			<key>Track ID</key><integer>396</integer>
+			<key>Name</key><string>Magic Carpet Ride (Techno Remix)</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3276974</integer>
+			<key>Total Time</key><integer>204669</integer>
+			<key>Date Modified</key><date>2005-03-27T11:01:28Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1080392356</integer>
+			<key>Play Date UTC</key><date>2005-11-12T01:29:00Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E495</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Magic%20Carpet%20Ride%20(Techno%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>Murder</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland/Scott Weiland</string>
+			<key>Album</key><string>Tweekend Advance</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4538542</integer>
+			<key>Total Time</key><integer>283533</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T11:04:41Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>-1080622446</integer>
+			<key>Play Date UTC</key><date>2005-11-09T09:34:10Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E496</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Murder.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>Roll It Up</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirland/Scott Weiland</string>
+			<key>Album</key><string>Tweekend Advance</string>
+			<key>Genre</key><string>General Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5859604</integer>
+			<key>Total Time</key><integer>366158</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T11:01:48Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>-1080379160</integer>
+			<key>Play Date UTC</key><date>2005-11-12T05:08:56Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E498</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Roll%20It%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>400</key>
+		<dict>
+			<key>Track ID</key><integer>400</integer>
+			<key>Name</key><string>She's My Pusher</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5452216</integer>
+			<key>Total Time</key><integer>340715</integer>
+			<key>Date Modified</key><date>2005-03-27T11:03:50Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E499</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20She's%20My%20Pusher.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>401</key>
+		<dict>
+			<key>Track ID</key><integer>401</integer>
+			<key>Name</key><string>Starting Over</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Album</key><string>Legion of Boom</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5806254</integer>
+			<key>Total Time</key><integer>241893</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T11:03:30Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1080616244</integer>
+			<key>Play Date UTC</key><date>2005-11-09T11:17:32Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E49A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Starting%20Over.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>402</key>
+		<dict>
+			<key>Track ID</key><integer>402</integer>
+			<key>Name</key><string>True Grit</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Album</key><string>Legion of Boom</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7366830</integer>
+			<key>Total Time</key><integer>306886</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T11:02:59Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1080667649</integer>
+			<key>Play Date UTC</key><date>2005-11-08T21:00:47Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E49B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20True%20Grit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>403</key>
+		<dict>
+			<key>Track ID</key><integer>403</integer>
+			<key>Name</key><string>Vapor Trail</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Composer</key><string>Ken Jordan/Scott Kirkland</string>
+			<key>Album</key><string>Vegas</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6279342</integer>
+			<key>Total Time</key><integer>391549</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:02:48Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E49C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Vapor%20Trail.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>404</key>
+		<dict>
+			<key>Track ID</key><integer>404</integer>
+			<key>Name</key><string>Weapons of Mass Distortion</string>
+			<key>Artist</key><string>The Crystal Method</string>
+			<key>Album</key><string>Legion of Boom</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11608238</integer>
+			<key>Total Time</key><integer>290142</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2005-03-27T11:04:02Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1080491508</integer>
+			<key>Play Date UTC</key><date>2005-11-10T21:56:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E49D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Crystal%20Method%20-%20Weapons%20of%20Mass%20Distortion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>Brambly Rivers (Wintermute Remix)</string>
+			<key>Artist</key><string>Donkey Kong Country 2</string>
+			<key>Composer</key><string>Dave Wise</string>
+			<key>Album</key><string>http://www.ocremix.org</string>
+			<key>Grouping</key><string>Fruity Loops all the Way!</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2890030</integer>
+			<key>Total Time</key><integer>180480</integer>
+			<key>Date Modified</key><date>2005-03-27T11:07:17Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Donkey%20Kong%20Country%202%20-%20Brambly%20Rivers%20(Wintermute%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>Chateau</string>
+			<key>Artist</key><string>Rob Dougan</string>
+			<key>Album</key><string>Matrix Reloaded Score</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4077742</integer>
+			<key>Total Time</key><integer>203859</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2005-03-27T11:10:45Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:45Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082977942</integer>
+			<key>Play Date UTC</key><date>2005-10-13T03:15:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rob%20Dougan%20-%20Chateau.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>432</key>
+		<dict>
+			<key>Track ID</key><integer>432</integer>
+			<key>Name</key><string>Clubbed to Death (Hybrid Mix Extended)</string>
+			<key>Artist</key><string>Rob Dougan</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11960622</integer>
+			<key>Total Time</key><integer>498259</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-03-27T11:09:35Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081852804</integer>
+			<key>Play Date UTC</key><date>2005-10-26T03:48:12Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rob%20Dougan%20-%20Clubbed%20to%20Death%20(Hybrid%20Mix%20Extended).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>Clubbed to Death II</string>
+			<key>Artist</key><string>Rob Dougan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3657902</integer>
+			<key>Total Time</key><integer>228466</integer>
+			<key>Date Modified</key><date>2005-03-27T11:09:43Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080538226</integer>
+			<key>Play Date UTC</key><date>2005-11-10T08:57:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rob%20Dougan%20-%20Clubbed%20to%20Death%20II.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>439</key>
+		<dict>
+			<key>Track ID</key><integer>439</integer>
+			<key>Name</key><string>Will You Follow Me?</string>
+			<key>Artist</key><string>Rob Dougan</string>
+			<key>Album</key><string>Furious Angels</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3694798</integer>
+			<key>Total Time</key><integer>230400</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2005-03-27T20:10:32Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1080986403</integer>
+			<key>Play Date UTC</key><date>2005-11-05T04:28:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rob%20Dougan%20-%20Will%20You%20Follow%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>458</key>
+		<dict>
+			<key>Track ID</key><integer>458</integer>
+			<key>Name</key><string>Eyes Down</string>
+			<key>Artist</key><string>Eels</string>
+			<key>Album</key><string>Holes Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6774958</integer>
+			<key>Total Time</key><integer>211670</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T11:16:41Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1080546736</integer>
+			<key>Play Date UTC</key><date>2005-11-10T06:36:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E4D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Eels%20-%20Eyes%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>545</key>
+		<dict>
+			<key>Track ID</key><integer>545</integer>
+			<key>Name</key><string>Lunatic Pandora</string>
+			<key>Artist</key><string>Final Fantasy VIII</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4993326</integer>
+			<key>Total Time</key><integer>207960</integer>
+			<key>Date Modified</key><date>2005-03-27T11:27:58Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E532</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Final%20Fantasy%20VIII%20-%20Lunatic%20Pandora.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>560</key>
+		<dict>
+			<key>Track ID</key><integer>560</integer>
+			<key>Name</key><string>Set Me Free (Trance Mix)</string>
+			<key>Artist</key><string>Final Fantasy X</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3164334</integer>
+			<key>Total Time</key><integer>197642</integer>
+			<key>Date Modified</key><date>2005-03-27T11:31:08Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E541</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Final%20Fantasy%20X%20-%20Set%20Me%20Free%20(Trance%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>594</key>
+		<dict>
+			<key>Track ID</key><integer>594</integer>
+			<key>Name</key><string>They (Cut Chemist Instrumental Mix)</string>
+			<key>Artist</key><string>Jem</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4632704</integer>
+			<key>Total Time</key><integer>191373</integer>
+			<key>Date Modified</key><date>2005-05-09T22:09:05Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:49Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>-1080453057</integer>
+			<key>Play Date UTC</key><date>2005-11-11T08:37:19Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E565</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Jem%20-%20They%20(Cut%20Chemist%20Instrumental%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>595</key>
+		<dict>
+			<key>Track ID</key><integer>595</integer>
+			<key>Name</key><string>They</string>
+			<key>Artist</key><string>Jem</string>
+			<key>Album</key><string>Finally Woken</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3152078</integer>
+			<key>Total Time</key><integer>196336</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2005-05-10T06:23:08Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>-1080933823</integer>
+			<key>Play Date UTC</key><date>2005-11-05T19:04:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E566</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Jem%20-%20They.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>611</key>
+		<dict>
+			<key>Track ID</key><integer>611</integer>
+			<key>Name</key><string>Breaking the Habit</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Composer</key><string>Linkin Park</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3139943</integer>
+			<key>Total Time</key><integer>196179</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T11:39:15Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080445202</integer>
+			<key>Play Date UTC</key><date>2005-11-11T10:48:14Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E576</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Linkin%20Park%20-%20Breaking%20the%20Habit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>618</key>
+		<dict>
+			<key>Track ID</key><integer>618</integer>
+			<key>Name</key><string>Session</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Composer</key><string>Linkin Park</string>
+			<key>Album</key><string>Matrix Reloaded</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2877614</integer>
+			<key>Total Time</key><integer>143830</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T11:39:05Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:49Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080552102</integer>
+			<key>Play Date UTC</key><date>2005-11-10T05:06:34Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E57D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Linkin%20Park%20-%20Session.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>627</key>
+		<dict>
+			<key>Track ID</key><integer>627</integer>
+			<key>Name</key><string>Choke</string>
+			<key>Artist</key><string>Lunatic Calm</string>
+			<key>Composer</key><string>Howard Saunders/Simon Shackleton</string>
+			<key>Album</key><string>Metropol</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6043822</integer>
+			<key>Total Time</key><integer>302132</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:41:26Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1081672588</integer>
+			<key>Play Date UTC</key><date>2005-10-28T05:51:48Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E586</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Lunatic%20Calm%20-%20Choke.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>629</key>
+		<dict>
+			<key>Track ID</key><integer>629</integer>
+			<key>Name</key><string>Metropol</string>
+			<key>Artist</key><string>Lunatic Calm</string>
+			<key>Composer</key><string>Howard Saunders/Simon Shackleton</string>
+			<key>Album</key><string>Metropol</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4882606</integer>
+			<key>Total Time</key><integer>244062</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:42:02Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082523081</integer>
+			<key>Play Date UTC</key><date>2005-10-18T09:36:55Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E588</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Lunatic%20Calm%20-%20Metropol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>631</key>
+		<dict>
+			<key>Track ID</key><integer>631</integer>
+			<key>Name</key><string>The Sound</string>
+			<key>Artist</key><string>Lunatic Calm</string>
+			<key>Composer</key><string>Howard Saunders/Simon Shackleton</string>
+			<key>Album</key><string>Metropol</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8327342</integer>
+			<key>Total Time</key><integer>416313</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T11:41:06Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080314518</integer>
+			<key>Play Date UTC</key><date>2005-11-12T23:06:18Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E58A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Lunatic%20Calm%20-%20The%20Sound.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>647</key>
+		<dict>
+			<key>Track ID</key><integer>647</integer>
+			<key>Name</key><string>This Is the New Shit</string>
+			<key>Artist</key><string>Marilyn Manson</string>
+			<key>Composer</key><string>Marilyn Manson</string>
+			<key>Album</key><string>Matrix Reloaded</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5208270</integer>
+			<key>Total Time</key><integer>260336</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-03-27T20:11:35Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:50Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>-1080377014</integer>
+			<key>Play Date UTC</key><date>2005-11-12T05:44:42Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E59A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Marilyn%20Manson%20-%20This%20Is%20the%20New%20Shit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>666</key>
+		<dict>
+			<key>Track ID</key><integer>666</integer>
+			<key>Name</key><string>Just Like You Imagined</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Fragile Disc 1</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3680430</integer>
+			<key>Total Time</key><integer>229903</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2005-03-27T11:48:33Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Nine%20Inch%20Nails%20-%20Just%20Like%20You%20Imagined.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>668</key>
+		<dict>
+			<key>Track ID</key><integer>668</integer>
+			<key>Name</key><string>The Great Below</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Album</key><string>The Fragile</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5077166</integer>
+			<key>Total Time</key><integer>317204</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Date Modified</key><date>2005-03-27T11:47:46Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1080379980</integer>
+			<key>Play Date UTC</key><date>2005-11-12T04:55:16Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Nine%20Inch%20Nails%20-%20The%20Great%20Below.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>694</key>
+		<dict>
+			<key>Track ID</key><integer>694</integer>
+			<key>Name</key><string>Climbatize</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Composer</key><string>Liam Howlett</string>
+			<key>Album</key><string>The Fat of the Land</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7940270</integer>
+			<key>Total Time</key><integer>396930</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T12:01:09Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1082698454</integer>
+			<key>Play Date UTC</key><date>2005-10-16T08:54:02Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20-%20Climbatize.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>699</key>
+		<dict>
+			<key>Track ID</key><integer>699</integer>
+			<key>Name</key><string>Jericho</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Composer</key><string>Liam Howlett</string>
+			<key>Album</key><string>Experience</string>
+			<key>Genre</key><string>Electronica &#38; Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4458670</integer>
+			<key>Total Time</key><integer>222876</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2005-03-27T12:02:14Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20-%20Jericho.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>700</key>
+		<dict>
+			<key>Track ID</key><integer>700</integer>
+			<key>Name</key><string>Narayan</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Composer</key><string>Crispian Mills/Liam Howlett</string>
+			<key>Album</key><string>The Fat of the Land</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10922158</integer>
+			<key>Total Time</key><integer>545985</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T12:02:44Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1080548572</integer>
+			<key>Play Date UTC</key><date>2005-11-10T06:05:24Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20-%20Narayan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>703</key>
+		<dict>
+			<key>Track ID</key><integer>703</integer>
+			<key>Name</key><string>Smack My Bitch Up</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Composer</key><string>C. Miller/Kool Keith/Liam Howlett/M. Smith/T. Randolph</string>
+			<key>Album</key><string>Fat of the Land</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5485017</integer>
+			<key>Total Time</key><integer>342752</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2005-03-27T20:11:56Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>-1082782308</integer>
+			<key>Play Date UTC</key><date>2005-10-15T09:36:28Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20-%20Smack%20My%20Bitch%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>705</key>
+		<dict>
+			<key>Track ID</key><integer>705</integer>
+			<key>Name</key><string>Weather Experience (Top Buzz Remix)</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Composer</key><string>Liam Howlett</string>
+			<key>Album</key><string>Expanded</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8284334</integer>
+			<key>Total Time</key><integer>414119</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2005-03-27T11:59:54Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:51Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>-1080896072</integer>
+			<key>Play Date UTC</key><date>2005-11-06T05:33:44Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/The%20Prodigy%20-%20Weather%20Experience%20(Top%20Buzz%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>718</key>
+		<dict>
+			<key>Track ID</key><integer>718</integer>
+			<key>Name</key><string>Stripped (Heavy Mental Mix)</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5048758</integer>
+			<key>Total Time</key><integer>315506</integer>
+			<key>Date Modified</key><date>2005-03-27T12:04:50Z</date>
+			<key>Date Added</key><date>2005-10-03T21:02:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>-1083521004</integer>
+			<key>Play Date UTC</key><date>2005-10-06T20:24:52Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>0DA1DD0D7924E5E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Rammstein%20-%20Stripped%20(Heavy%20Mental%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6273</key>
+		<dict>
+			<key>Track ID</key><integer>6273</integer>
+			<key>Name</key><string>Resident Evil Theme</string>
+			<key>Artist</key><string>Marilyn Manson</string>
+			<key>Album</key><string>Resident Evil OST</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3111086</integer>
+			<key>Total Time</key><integer>129567</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2005-03-27T09:50:25Z</date>
+			<key>Date Added</key><date>2005-11-12T23:04:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> </string>
+			<key>Rating</key><integer>20</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>6DF9ACF51708A83B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Media/Playlist%20Music/Marilyn%20Manson%20-%20Resident%20Evil%20Theme.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6390</key>
+		<dict>
+			<key>Track ID</key><integer>6390</integer>
+			<key>Name</key><string>Who Am I</string>
+			<key>Artist</key><string>Peace Orchestra</string>
+			<key>Album</key><string>The Animatrix OST</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8617984</integer>
+			<key>Total Time</key><integer>358974</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2005-11-12T23:21:52Z</date>
+			<key>Date Added</key><date>2005-11-12T23:22:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Center Of Attention...      </string>
+			<key>Rating</key><integer>100</integer>
+			<key>Season</key><integer>0</integer>
+			<key>Persistent ID</key><string>6DF9ACF51708A845</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/Music/MP3's/Peace%20Orchestra%20-%20Who%20Am%20I.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Viscera</string>
+			<key>Playlist ID</key><integer>6203</integer>
+			<key>Playlist Persistent ID</key><string>6DF9ACF51708A836</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>58</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>62</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>65</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>78</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>80</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>96</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>45</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>168</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>49</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>700</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>694</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>258</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

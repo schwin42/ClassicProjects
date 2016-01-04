@@ -1,0 +1,60 @@
+In order to minimize confusion, all players will be required to conform to the chat protocols below.
+
+1. All character actions will not be enclosed in special punctuation. They will follow this format: <Character Name> <Action that Character Carries Out>. In the case of actions that either require a roll or are likely to be interrupted by other events, the player will insert "attempts to," between the two fields. Stylistic variants of protocol will usually be accepted.
+
+Examples of proper procedure:
+
+	<Evo_Gentry> Gentry walks over to the north wall and examines the potted plant.
+
+	<Evo_Zi> Zi attempts to find information on chromabullet therapy. 
+
+	<Evo_Brend> Brend tries to punch Generic Viscera Agent in the face.
+
+2. All character conversation will occur within quotations. Quotations can be combined with actions and do not have to be segregated to their own lines. If the speech is via a psionic channel, make that explicitly clear. If a channel is private, send a private message to the GM, who will relay your message to the necessary character(s).
+
+Examples of proper procedure:
+
+	<Evo_Gentry> "A potted plant? Yeah, that's what they want us to believe."
+
+	<Evo_Eddy> Eddy's eyes flash blue, then purple. "Target their warp core," he says without inflection.
+
+	(Message to GM) <Evo_Fletcher> Fletcher channels to Gentry and Zi, "We'll see about that."
+
+3. All actions that are not happening in-game, but are related to the game will be enclosed in brackets. Questions for and responses to the GM all fall into this category. 
+
+Examples of proper procedure:
+
+	<Evo_Triskaidek> [What do I see in this room?]
+
+	<Evo_GM> [What's Zi's Intelligence + Analysis?]
+
+	<Evo_Zi> [5.]
+
+4. All die rolls will be performed by the GM, and then stated in the chat within carrots. Carrots will only be used by the GM to confer the results of die rolls. 
+
+Examples of proper procedure:
+
+	<Evo_GM> <Greg rolls Int + Ana, Diff 8: (1, 3, 4, 8, 9) 1 success.> Zi finds little information on chromabullet therapy. The entirety of what he learns is that chromabullet therapy involves firing painted rifle bullets at a person in order to cure a number of exotic diseases.
+
+5. If you wish to respond to something immediately, but must take a several seconds to type it up, indicate that you are typing with a line consisting of a single asterisk. If somebody types an asterisk, players are expected to maintain inactivity until that person finishes their response. In the case of multiple players submitting asterisks, players will enter their responses in the order that their asterisks appeared in the chat. Players that did not submit an intent to speak will wait until all asterisks have been resolved.
+
+Examples of proper procedure:
+
+	<Evo_Brend> "I say we should just blow up the ship and go our separate ways."
+	<Evo_Gentry> *
+	<Evo_Fletcher> *
+	<Evo_Gentry> "That doesn't seem like such a great idea. We might get haunted or something."
+	<Evo_Zi> *
+	<Evo_Fletcher> "Burn the mother do- I mean, of course we shouldn't destroy the ship."
+	<Evo_Zi> "Haunted, shmaunted."
+
+5. Finally, all material not pertinent to the game will be put in parentheses. 
+
+Examples of proper procedure:
+
+	<Evo_Eddy> (Bathroom, be right back.)
+
+	<Evo_Gentry> (I've got a bad feeling about this.)
+
+
+Consequences for not adhering to protocol will be warnings via private message, followed by a possible confiscation of experience points for blatant disobedience. Please direct any questions regarding the Chapter 9 Guidelines to the GM.
